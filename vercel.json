@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm --prefix jogo-da-velha run build",
+  "installCommand": "npm --prefix jogo-da-velha install",
+  "outputDirectory": "jogo-da-velha/dist"
+}
